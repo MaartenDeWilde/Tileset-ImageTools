@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Png Transparancy Converter", "ConsoleApplication1\Png Transparancy Converter.csproj", "{C9BF6B54-D34C-4F85-A738-CC4E0FC69AE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transparancy", "Transparancy\Transparancy.csproj", "{C9BF6B54-D34C-4F85-A738-CC4E0FC69AE5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileMerge", "TileMerge\TileMerge.csproj", "{1291FB00-9601-43FC-A7E8-C6DE51130D86}"
 EndProject

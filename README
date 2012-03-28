@@ -1,0 +1,15 @@
+README
+
+Both applications run on all image files within current folder.
+
+Transparancy:
+
+Expects .bmp images in folder 
+	- Converts all pixels of given color to Transparent
+	
+TileMerge:
+
+Expects .png images in folder
+	- Merges all png's into one tilesheet (tileSheet.png) in folder (c:\output)
+	- Also creates meta file with numbers per tile ( tileSheet_meta.png ) 
+		This can be used as a reference 
