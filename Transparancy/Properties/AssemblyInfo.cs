@@ -8,9 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ConsoleApplication1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("MCK")]
 [assembly: AssemblyProduct("ConsoleApplication1")]
-[assembly: AssemblyCopyright("Copyright © MCK 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
